@@ -7,6 +7,7 @@ Hi there! I'm BlobChainShip, a dedicated blockchain enthusiast and specialist in
 - **Discord:** [@blobchainship](https://discordapp.com/users/846124212199620648)
 
 #### 📚 My Guides:
+- **Mantra Operator guide:** [Link](https://github.com/BlobChainShip/mantraguide)
 - **0g Full Node guide:** [Link](https://github.com/BlobChainShip/information-materials/blob/main/0g-guides/0g-full-node-guide.md)
 - **0g Storage KV guide:** [Link](https://github.com/BlobChainShip/information-materials/blob/main/0g-guides/0g-storage-kv-guide.md)
 - **Crossfi Node Guide:** [Link](https://github.com/BlobChainShip/information-materials/blob/main/crossfi/crossfi-node-guide.md)
